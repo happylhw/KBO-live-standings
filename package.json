@@ -1,0 +1,9 @@
+{
+  "name": "kbo-live-standings",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "kbo-api": "latest"
+  }
+}
